@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>AI编译器</title>
+    <url>/2025/03/17/4-AI%E7%BC%96%E8%AF%91%E5%99%A8/index/</url>
+    <content><![CDATA[<h2 id="AI-编译器"><a href="#AI-编译器" class="headerlink" title="AI 编译器"></a>AI 编译器</h2><p>这是关于 AI 编译器的架构和实现细节。</p>
+]]></content>
+      <categories>
+        <category>AI编译器</category>
+      </categories>
+      <tags>
+        <tag>tvm</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>02 lamba表达式</title>
     <url>/2025/03/17/1-AI-Infra%E9%9C%80%E8%A6%81%E7%9A%84cpp%E7%9F%A5%E8%AF%86/02%20lamba/</url>
     <content><![CDATA[<h2 id="1-基本语法"><a href="#1-基本语法" class="headerlink" title="1 基本语法"></a>1 基本语法</h2><ol>
@@ -266,30 +278,6 @@
       </tags>
   </entry>
   <entry>
-    <title>GPU体系知识</title>
-    <url>/2025/03/17/2-GPU%E4%BD%93%E7%B3%BB%E7%9F%A5%E8%AF%86/index/</url>
-    <content><![CDATA[<h2 id="GPU体系知识"><a href="#GPU体系知识" class="headerlink" title="GPU体系知识"></a>GPU体系知识</h2><p>这是关于 GPU 体系结构的学习内容。</p>
-]]></content>
-      <categories>
-        <category>GPU体系知识</category>
-      </categories>
-      <tags>
-        <tag>CUDA TensoRT NCCL</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>AI编译器</title>
-    <url>/2025/03/17/4-AI%E7%BC%96%E8%AF%91%E5%99%A8/index/</url>
-    <content><![CDATA[<h2 id="AI-编译器"><a href="#AI-编译器" class="headerlink" title="AI 编译器"></a>AI 编译器</h2><p>这是关于 AI 编译器的架构和实现细节。</p>
-]]></content>
-      <categories>
-        <category>AI编译器</category>
-      </categories>
-      <tags>
-        <tag>tvm</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>llm推理框架</title>
     <url>/2025/03/17/3-llm%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6/index/</url>
     <content><![CDATA[<h2 id="LLM-推理框架"><a href="#LLM-推理框架" class="headerlink" title="LLM 推理框架"></a>LLM 推理框架</h2><p>这是关于 LLM（大语言模型）推理框架的知识。</p>
@@ -299,6 +287,18 @@
       </categories>
       <tags>
         <tag>SGlang &amp; vllm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GPU体系知识</title>
+    <url>/2025/03/17/2-GPU%E4%BD%93%E7%B3%BB%E7%9F%A5%E8%AF%86/index/</url>
+    <content><![CDATA[<h2 id="GPU体系知识"><a href="#GPU体系知识" class="headerlink" title="GPU体系知识"></a>GPU体系知识</h2><p>这是关于 GPU 体系结构的学习内容。</p>
+]]></content>
+      <categories>
+        <category>GPU体系知识</category>
+      </categories>
+      <tags>
+        <tag>CUDA TensoRT NCCL</tag>
       </tags>
   </entry>
 </search>
